@@ -1,0 +1,5 @@
+entity\User.class
+atividades\Login.class
+atividades\Logout.class
+atividades\Repositorio.class
+atividades\Servico.class
